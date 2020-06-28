@@ -50,7 +50,7 @@ how_we_work:
   step1:
     text:       "Step 1."
     #   approximate max length -------------------------------------||
-    line1:      "Remote volunteers trace satellite"
+    line1:      "リモートでボランティアがOpenStreetMapに衛星画像を落とし込む"
     #   approximate max length ----------------------------------||
     line2:      "imagery into OpenStreetMap"
   step2:
