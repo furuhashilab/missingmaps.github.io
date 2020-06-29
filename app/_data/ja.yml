@@ -73,22 +73,22 @@ how_we_work:
     line4:      ""
 
 how_to_participate:
-  title:        "How to participate"
-  start:        "Start Mapping Now"
-  start_text:   "It is no problem if you have never mapped before - it doesn't take long to learn. Visit our beginners section to find out how. If you already know how to edit OpenStreetMap, feel free to just get started."
+  title:        "参加方法"
+  start:        "今すぐマッピングを開始"
+  start_text:   "これまでにマッピングをしたことがない人でも問題ありません。マッピングを学ぶにはそれほど多くの時間はかかりません。初心者向けの欄にアクセスして、マッピングの方法を確認してください。OpenStreetMapの編集方法をすでに知っている人はぜひ始めてみてください。"
   map_btn:      "MAP NOW"
   learn_btn:    "LEARN TO MAP"
-  organize:     "Organize a mapathon"
-  organize_text: "Organizing mapathons is a fantastic way to build a community of mappers all focusing on the same area of the world. It is also a great learning environment, where new mappers can learn from the experiences of others. Mapathons are organised by groups and individuals all over the world."
+  organize:     "マッパソンの作成"
+  organize_text: "マッパソンを作成することは、世界の同じ地域に焦点を当てたマッパーのコミュニティを構築するための素晴らしい方法です。また、新しいマッパーが他の人の経験から学ぶことができる優れた学習環境でもあります。マッパソンは世界中のグループや個人によって組織されています"
   lead_btn:     "LEAD A MAPATHON"
   join_btn:     "JOIN EMAIL LIST"
-  donate:       "Donate to make an impact"
-  donate_text:  "A donation to the Humanitarian OpenStreetMap Team (one of the founders of Missing Maps) can help to support local people in mapping their own communities, to develop tools and processes so that more people can contribute, and to scale the project so that we can help even more humanitarian organisations responding to crises all over the world."
-  donate_btn:   "DONATE"
+  donate:       "インパクトを与えるために"
+  donate_text:  "人道主義のためのOpenStreetMapチーム（ミッシングマップの創設者の1人）への寄付は、地元の人々が自分のコミュニティをマッピングするのを支援をし、より多くの人々が貢献できるようにツールとプロセスを開発し、私たちが世界中の危機に対応しているさらに多くの人道組織を支援できるようにプロジェクトを調整または拡大するのに役立ちます。"
+  donate_btn:   "寄付"
 
 contributions:
-  title:        "Contributions"
-  subtitle:     "Since 2014 Missing Maps users have contributed"
+  title:        "貢献"
+  subtitle:     "2014年以降、Missing Mapsユーザーは貢献してきました"
   total:        "Total Contributors"
   edits:        "Total Edits"
   buildings:    "Building Edits"
@@ -111,21 +111,21 @@ contact:
 ## LEARN CONTENT ##
 ########################
 contribute:
-  title:        "Learn to Map"
-  how_text:     "If you're new to mapping we recommend watching the videos in the 'Beginners' section to get up and running. If you've mapped before follow the 'Map Now' link, or consider learning to validate. There is also additional tutorials available via LearnOSM."
+  title:        "地図について学ぶ"
+  how_text:     "マッピングに慣れていない場合は、「初心者」向けの欄にあるビデオを見て、実行することをお勧めします。以前にマップした場合は、「今すぐマップ」リンクをたどるか、検証の学習を行ってください。LearnOSMを介して利用可能な追加のチュートリアルもあります。"
   map_btn:      "MAP NOW"
   validate:     "VALIDATE"
   learn_osm:    "TUTORIALS"
   youtube:      "YOUTUBE"
   beginners:    "Beginners"
-  stepAccount:        "Create an Open Street Map account"
+  stepAccount:        "Open Street Mapアカウントを作成します"
   stepAccount_text:   "Go to the <a href=\"https://www.openstreetmap.org/login\">OpenStreetMap</a>  website and register to create an account. Follow the link in the email they send to confirm your account."
-  stepBuildings:        "Learn to map buildings"
+  stepBuildings:        "建物のマッピングを学ぶ"
   stepBuildings_text:   "Buildings are one of the most useful things you can add to OpenStreetMap (and they're fun too)! Learn how to add and edit buildings to OSM through the iD editor."
   stepRoads:        "Learn to map roads"
   stepRoads_text:   "Roads are also one of the most useful things you can add to OpenStreetMap! Learn how to add and edit roads to OSM through the iD editor."
-  stepTM:        "Learn to use the Tasking Manager"
-  stepTM_text:   "Go to the <a href=\"http://tasks.hotosm.org/?sort_by=priority&direction=asc&search=missing+maps\">Task Manager</a> to find a project and task that interests you. Learn how to lock a task to edit, select an editing program and change the background settings."
+  stepTM:        "Tasking Managerの使い方を学ぶ"
+  stepTM_text:   "<a href=\"http://tasks.hotosm.org/?sort_by=priority&direction=asc&search=missing+maps\">Task Manager</a> タスクマネージャーに移動して、興味のあるプロジェクトとタスクを見つけます。編集するタスクをロックし、編集プログラムを選択し、背景設定を変更する方法を学びます。"
 
 ####################
 ## EVENTS CONTENT ##
