@@ -111,19 +111,19 @@ contact:
 ## LEARN CONTENT ##
 ########################
 contribute:
-  title:        "地図について学ぶ"
+  title:        "マッピング方法を学ぶ"
   how_text:     "マッピングに慣れていない場合は、「初心者」向けの欄にあるビデオを見て、実行することをお勧めします。以前にマップした場合は、「今すぐマップ」リンクをたどるか、検証の学習を行ってください。LearnOSMを介して利用可能な追加のチュートリアルもあります。"
   map_btn:      "MAP NOW"
   validate:     "VALIDATE"
   learn_osm:    "TUTORIALS"
   youtube:      "YOUTUBE"
   beginners:    "Beginners"
-  stepAccount:        "Open Street Mapアカウントを作成します"
+  stepAccount:        "OpenStreetMapアカウントを作成します"
   stepAccount_text:   "Go to the <a href=\"https://www.openstreetmap.org/login\">OpenStreetMap</a>  website and register to create an account. Follow the link in the email they send to confirm your account."
   stepBuildings:        "建物のマッピングを学ぶ"
-  stepBuildings_text:   "Buildings are one of the most useful things you can add to OpenStreetMap (and they're fun too)! Learn how to add and edit buildings to OSM through the iD editor."
-  stepRoads:        "Learn to map roads"
-  stepRoads_text:   "Roads are also one of the most useful things you can add to OpenStreetMap! Learn how to add and edit roads to OSM through the iD editor."
+  stepBuildings_text:   "建物は、OpenStreetMapに追加できる最も役立つものの1つです（そしてそれらも楽しいです）。iDエディターを使用してOSMに建物を追加および編集する方法を学びます。"
+  stepRoads:        "道路のマッピングを学ぶ"
+  stepRoads_text:   "道路もOpenStreetMapに追加できる最も便利なものの1つです。iDエディターを使用してOSMに道路を追加および編集する方法を学びます。"
   stepTM:        "Tasking Managerの使い方を学ぶ"
   stepTM_text:   "<a href=\"http://tasks.hotosm.org/?sort_by=priority&direction=asc&search=missing+maps\">Task Manager</a> タスクマネージャーに移動して、興味のあるプロジェクトとタスクを見つけます。編集するタスクをロックし、編集プログラムを選択し、背景設定を変更する方法を学びます。"
 
