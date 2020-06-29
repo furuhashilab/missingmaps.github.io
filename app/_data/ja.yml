@@ -148,11 +148,11 @@ about:
   ethics:
     title:      "Ethics"
     text1:      "Using OpenStreetMap ensures that all data gathered under the project banner will be free, open, and available for use under <a href=\"http://wiki.openstreetmap.org/wiki/OpenStreetMap_License\">OpenStreetMap’s open license</a>."
-    text2:      "All 'in country' activities, i.e. local mapping and data collection, will be carried out in collaboration with local people and in a respectful manner at all times."
-    text3:      "When working locally, people come before the data. Meaning if the goal is to map a city there needs to be a plan in place to ensure access to technology and training for those living in that community to continue using the maps after project completion."
-    text4:      "Members of Missing Maps actively contribute to Missing Map's objectives, the OpenStreetMap repository and benefitting communities, both local and international."
-    text5:      "Missing Maps activities emphasize building, and leaving behind, local capacity and access. We are cautious about rapid data collection without significant local participation, and always make efforts to ensure local access."
-    text6:      "Missing Maps activities are designed to be accessible and open for participation for individuals who want to contribute towards the project objectives."
+    text2:      "すべての「国内」活動、つまり地方のマッピングとデータ収集は、常に地元の人々と協力して、敬意をもって実施されます。"
+    text3:      "地方で作業する場合、人々はデータの前に来ます。つまり、目標が都市の地図を描くことである場合、そのコミュニティに住む人々がプロジェクトの完了後も地図を使い続けるためのテクノロジーとトレーニングへのアクセスを確保するための計画が必要です。"
+    text4:      "ミッシングマップのメンバーは、ミッシングマップの目標であるOpenStreetMapリポジトリに積極的に貢献し、地域および国際的なコミュニティに貢献しています。"
+    text5:      "不足しているマップアクティビティは、ローカルキャパシティとアクセスの構築とやり残しを強調しています。私たちは、現地での重要な関与なしに迅速なデータ収集を行うことに注意を払い、常に現地でのアクセスを確保するよう努力しています。"
+    text6:      "Missing Mapsアクティビティは、プロジェクトの目的に貢献したい個人がアクセスでき、参加できるように設計されています。"
   membership:
     title:      "Membership"
     text1:      "Membership of the the Missing Maps Project is open to any NGO, educational establishment or civil society group willing to contribute to the goals, and abide by the ethics, stated above. Approval of membership is the responsibility of the current member organisations."
@@ -183,7 +183,7 @@ helper-map:
 #####################
 host:
   title:          "Hosting a Mapathon"
-  text:           "A mapathon is a great opportunity for volunteers to digitally connect and map the most vulnerable places in the developing world so that local and international Non-Governmental Organizations (NGO’s) can use these maps and data to better respond to crises affecting these areas. Up to date maps are important for the success of many humanitarian organizations around the world in responding to disasters. Through Missing Maps, you can volunteer your time to help create these maps, and have a real impact on the delivery of healthcare in the field. Check out the video below to learn more about what a mapathon is, and check out our resources on how to host one below."
+  text:           "マッパソンは、ボランティアが途上国で最も支援を必要としている場所をデジタルで接続してマッピングする絶好の機会です。これにより、地元および国際的な非政府組織（NGO）がこれらの地図とデータを使用して、これらの地域に影響を与える危機に対してより適切に対応できるようになります。"
   what_is:        "What is a Mapathon?"
   how_host:       "How to Host a Mapathon"
   prep_btn:       "PLANNING CHECKLIST"
@@ -232,16 +232,16 @@ host:
 ##############
 
 checker:
-    title: "Learn to Validate"
-    intro: "Validation is an important part of the Missing Maps process. Getting a second, third, or fourth pair of eyes on mapped features goes a long way in ensuring the quality of data being added to OpenStreetMap and being used in vulnerable communities around the world. Validating requires confidence in your mapping abilities as well as the willingness to help coach and advise newer mappers. The Missing Maps Project is a community of mappers with different levels of mapping experience, all who have a common goal of improving the availability of quality data for humanitarian use."
+    title: "検証を学ぶ"
+    intro: "検証は、ミッシングマッププロセスの重要な部分です。マップされた場所を2回、3回または4回確認することは、OpenStreetMapに追加され、世界中の助けを必要としているコミュニティで使用されているデータの品質を保証するのに大いに役立ちます。検証には、マッピング能力に対する自信と、新しいマッパーを指導し助言する意欲が必要です。ミッシングマッププロジェクトは、さまざまなレベルのマッピング経験を持つマッパーのコミュニティであり、すべての人が人道的使用のための高品質データの可用性を向上させるという共通の目標を持っています。"
     links:
       faq: "FAQS"
       josm: "JOSM VALIDATION"
       wiki: "WIKI"
     steps:
-      goal: "Validators"
-      step1: "Step 1"
-      step1_subtitle: "Identify if becoming a validator is right for you."
+      goal: "検証人"
+      step1: "ステップ1"
+      step1_subtitle: "あなたが検証する人にふさわしいかどうかを確認します。"
       step1_text: "Validating isn’t for everyone; validation requires patience and attention to detail. Some experience mapping in OpenStreetMap and HOT projects is a must, but don’t feel that you need to be an expert to start. If you’re new to Missing Maps or OpenStreetMap mapping in general, head over to our <a href= \"/learn\"> resources for new mappers. </a> Check out our <a href= \"/assets/downloads/MissingMaps_validation_faq_en.pdf\"> Validation FAQs </a> to gain some insight on what validating entails."
       step2: "Step 2"
       step2_subtitle: "Build your skills."
