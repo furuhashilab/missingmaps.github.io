@@ -48,13 +48,13 @@ how_we_work:
   # the "step" lines are for insertion in an svg
   #   and are therefore rather fixed in max length and number of lines allowed
   step1:
-    text:       "Step 1."
+    text:       "ステップ１"
     #   approximate max length -------------------------------------||
     line1:      "リモートでボランティアがOpenStreetMapに衛星画像を落とし込む"
     #   approximate max length ----------------------------------||
     line2:      "imagery into OpenStreetMap"
   step2:
-    text:       "Step 2."
+    text:       "ステップ２"
     #   approximate max length ----------------------------------||
     line1:      "Community volunteers add local"
     #   approximate max length --------------------------------||
@@ -62,7 +62,7 @@ how_we_work:
     #   approximate max length ------------------------------||
     line3:      "names, and evacuation centers"
   step3:
-    text:       "Step 3."
+    text:       "ステップ３"
     #   approximate max length ---------------------------------||
     line1:      "Humanitarian organizations use mapped"
     #   approximate max length ---------------------------------||
