@@ -119,13 +119,13 @@ contribute:
   youtube:      "YOUTUBE"
   beginners:    "初心者の皆さんへ"
   stepAccount:        "OpenStreetMapアカウントを作成します"
-  stepAccount_text:   "Go to the <a href=\"https://www.openstreetmap.org/login\">OpenStreetMap</a>  website and register to create an account. Follow the link in the email they send to confirm your account."
+  stepAccount_text:   "<a href=\"https://www.openstreetmap.org/login\">OpenStreetMap</a> のウェブサイトに行って、アカウントを作ってください。アカウントを画定するために、送られてきたメールに従ってください。"
   stepBuildings:        "建物のマッピングを学ぶ"
   stepBuildings_text:   "建物は、OpenStreetMapに追加できる最も役立つものの1つです（そしてそれらも楽しいです）。iDエディターを使用してOSMに建物を追加および編集する方法を学びます。"
   stepRoads:        "道路のマッピングを学ぶ"
   stepRoads_text:   "道路もOpenStreetMapに追加できる最も便利なものの1つです。iDエディターを使用してOSMに道路を追加および編集する方法を学びます。"
   stepTM:        "Tasking Managerの使い方を学ぶ"
-  stepTM_text:   "<a href=\"http://tasks.hotosm.org/?sort_by=priority&direction=asc&search=missing+maps\">Task Manager</a> タスクマネージャーに移動して、興味のあるプロジェクトとタスクを見つけます。編集するタスクをロックし、編集プログラムを選択し、背景設定を変更する方法を学びます。"
+  stepTM_text:   "<a href=\"http://tasks.hotosm.org/?sort_by=priority&direction=asc&search=missing+maps\">Task Manager</a> （タスクマネージャー）に移動して、興味のあるプロジェクトとタスクを見つけます。編集するタスクをロックし、編集プログラムを選択し、背景設定を変更する方法を学びます。"
 
 ####################
 ## EVENTS CONTENT ##
@@ -144,7 +144,7 @@ about:
   objectives:
     title:      "達成すべき目標"
     text1:      "発展途上国で最も支援を必要としている場所を地図化し、国際的および地方のNGOと個人が地図とデータを使用して、地域に影響を与える危機により適切に対応できるようにします。"
-    text2:      "To support <a href=\"http://openstreetmap.org\">OpenStreetMap</a> , specifically the <a href=\"http://hotosm.org\">Humanitarian OpenStreetMap Team (HOT)</a>, in developing technologies, skills, workflows, and communities."
+    text2:      "技術やワークフロー、コミュニティーの開発において、<a href=\"http://openstreetmap.org\">OpenStreetMap</a> ,特に  <a href=\"http://hotosm.org\">Humanitarian OpenStreetMap Team (HOT)</a>をサポートします。"
   ethics:
     title:      "ルール"
     text1:      "Using OpenStreetMap ensures that all data gathered under the project banner will be free, open, and available for use under <a href=\"http://wiki.openstreetmap.org/wiki/OpenStreetMap_License\">OpenStreetMap’s open license</a>."
