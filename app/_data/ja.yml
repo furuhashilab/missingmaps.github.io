@@ -39,73 +39,73 @@ nav:
 #####################
 
 banner:
-  title:          "世界中の弱い人々を地図に載せる"
+  title:          "世界中の災害時要援護者を地図に載せる"
   subtitle:       "毎年災害により、世界中でおよそ10万人が亡くなり、2億人が影響を受けたり、避難をしています。これらの災害が発生する場所の多くは文字通り「地図」から「欠落」しており、救急隊員は救援活動に関する決定を行うための情報が不足しています。Missing Mapsはオープンで協力的なプロジェクトであり、人道支援組織が行き届いていない地域の地図を作成するのに役立ちます。"
   get_involved:   "GET INVOLVED"
 
 how_we_work:
-  title:        "How we work"
+  title:        "我々の活動"
   # the "step" lines are for insertion in an svg
   #   and are therefore rather fixed in max length and number of lines allowed
   step1:
     text:       "ステップ１"
     #   approximate max length -------------------------------------||
-    line1:      "リモートでボランティアがOpenStreetMapに衛星画像を落とし込む"
+    line1:      "リモートでボランティアがOpenStreetMapに"
     #   approximate max length ----------------------------------||
-    line2:      "imagery into OpenStreetMap"
+    line2:      "衛星画像を落とし込みます"
   step2:
     text:       "ステップ２"
     #   approximate max length ----------------------------------||
-    line1:      "Community volunteers add local"
+    line1:      "現地に詳しいボランティアは、"
     #   approximate max length --------------------------------||
-    line2:      "detail such as neighborhoods, street"
+    line2:      "近所、通りの名前、避難所"
     #   approximate max length ------------------------------||
-    line3:      "names, and evacuation centers"
+    line3:      "などの地域の詳細を追加します"
   step3:
     text:       "ステップ３"
     #   approximate max length ---------------------------------||
-    line1:      "Humanitarian organizations use mapped"
+    line1:      "人道支援組織は、マッピングされた情報を"
     #   approximate max length ---------------------------------||
-    line2:      "information to plan risk reduction and"
+    line2:      "使用して、人命を救うための災害対応活動を"
     #   approximate max length ---------------------------------||
-    line3:      "disaster response activities that save lives"
+    line3:      "計画します"
     #   line4 added for ES translation, not needed for EN
     line4:      ""
 
 how_to_participate:
   title:        "参加方法"
-  start:        "今すぐマッピングを開始"
+  start:        "マッピングを開始"
   start_text:   "これまでにマッピングをしたことがない人でも問題ありません。マッピングを学ぶにはそれほど多くの時間はかかりません。初心者向けの欄にアクセスして、マッピングの方法を確認してください。OpenStreetMapの編集方法をすでに知っている人はぜひ始めてみてください。"
   map_btn:      "マッピングを始める"
   learn_btn:    "マッピングについて学ぶ"
-  organize:     "マッパソンの作成"
-  organize_text: "マッパソンを作成することは、世界の同じ地域に焦点を当てたマッパーのコミュニティを構築するための素晴らしい方法です。また、新しいマッパーが他の人の経験から学ぶことができる優れた学習環境でもあります。マッパソンは世界中のグループや個人によって組織されています"
-  lead_btn:     "マッパソンを作成"
+  organize:     "マッパソンの結成"
+  organize_text: "マッパソンを結成することは、世界の同じ地域に焦点を当てたマッパーのコミュニティを構築するための素晴らしい方法です。また、新しいマッパーが他の人の経験から学ぶことができる優れた学習環境でもあります。マッパソンは世界中のグループや個人によって組織されています"
+  lead_btn:     "マッパソンを結成する"
   join_btn:     "メールアドレスを登録"
-  donate:       "インパクトを与えるために"
-  donate_text:  "人道主義のためのOpenStreetMapチーム（ミッシングマップの創設者の1人）への寄付は、地元の人々が自分のコミュニティをマッピングするのを支援をし、より多くの人々が貢献できるようにツールとプロセスを開発し、私たちが世界中の危機に対応しているさらに多くの人道組織を支援できるようにプロジェクトを調整または拡大するのに役立ちます。"
+  donate:       "寄付で応援"
+  donate_text:  "人道主義のためのOpenStreetMapチーム（ミッシングマップの創設者の1人）への寄付は、地元の人々が自分のコミュニティをマッピングするのを支援をし、より多くの人々が貢献できるようにツールとプロセスを開発し、私たちが世界中の危機に対応しているさらに多くの人道組織を支援できるようにプロジェクトを調整するのに役立ちます。"
   donate_btn:   "寄付"
 
 contributions:
   title:        "貢献"
   subtitle:     "2014年以降、Missing Mapsユーザーは貢献してきました"
-  total:        "Total Contributors"
-  edits:        "Total Edits"
-  buildings:    "Building Edits"
-  roads:        "Roads (km)"
+  total:        "総協力者数"
+  edits:        "総編集数"
+  buildings:    "建物の総編集数"
+  roads:        "道路 (km)の総編集数"
 
 discover:
-  title:        "Discover"
-  subtitle:     "To track your individual & project contributions Missing Maps provides two tools."
-  profiles:     "User Profiles"
-  profile_text: "Check out your contributions to HOT tasks!"
+  title:        "発見"
+  subtitle:     "個人およびプロジェクトの貢献を追跡するために、Missing Mapsには2つのツールが用意されています。"
+  profiles:     "ユーザープロフィール"
+  profile_text: "HOTタスクへの貢献をチェック!"
   profile_btn:  "ユーザーを見つける"
-  projects:     "Project Leaderboards"
+  projects:     "プロジェクト リーダーボード"
   project_text: "Find out where you stand among contributed hashtags!"
   project_btn:  "リーダーボードを見つける"
 
 contact:
-  title:        "CONTACT US"
+  title:        "お問い合わせ"
 
 ########################
 ## LEARN CONTENT ##
