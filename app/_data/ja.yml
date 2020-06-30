@@ -88,7 +88,7 @@ how_to_participate:
 
 contributions:
   title:        "貢献"
-  subtitle:     "2014年以降、Missing Mapsユーザーは貢献してきました"
+  subtitle:     "2014年以降、MissingMapsユーザーは貢献してきました"
   total:        "総協力者数"
   edits:        "総編集数"
   buildings:    "建物の総編集数"
@@ -96,7 +96,7 @@ contributions:
 
 discover:
   title:        "発見"
-  subtitle:     "個人およびプロジェクトの貢献を追跡するために、Missing Mapsには2つのツールが用意されています。"
+  subtitle:     "個人およびプロジェクトの貢献を追跡するために、MissingMapsには2つのツールが用意されています。"
   profiles:     "ユーザープロフィール"
   profile_text: "HOTタスクへの貢献をチェック!"
   profile_btn:  "ユーザーを見つける"
@@ -169,7 +169,7 @@ about:
 
 helper-map:
   title:        "マッパソンのサポート"
-  description:  "Missing Mapsチームは、さまざまな方法であなたをサポートできます。 タスクの選択や質問がある場合は、TwitterまたはFacebookからお問い合わせください。さらに、ボランティアのマッパソンサポーターが世界中にいます！お住まいの地域の人とつながるには、下の地図を使用してください。ドロップダウンを使用して言語でフィルタリングできます。マップをズームすると、地域の人々にリストを絞り込むのに役立ちます。"
+  description:  "MissingMapsチームは、さまざまな方法であなたをサポートできます。 タスクの選択や質問がある場合は、TwitterまたはFacebookからお問い合わせください。さらに、ボランティアのマッパソンサポーターが世界中にいます！お住まいの地域の人とつながるには、下の地図を使用してください。ドロップダウンを使用して言語でフィルタリングできます。マップをズームすると、地域の人々にリストを絞り込むのに役立ちます。"
   signup-txt:   "下のボタンを使用して地図に連絡先情報を追加して支援してください。データを削除または編集するには、 <a href='mailto:info@hotosm.org'>メール</a>.を送ってください。"
   signup-btn:   "Sign up"
   filter-lang:  "Filter by a language"
