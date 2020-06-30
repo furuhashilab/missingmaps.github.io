@@ -158,7 +158,7 @@ about:
     text1:      "Missing Mapsプロジェクトのメンバーは、上記のように、目標に貢献し、倫理に従うことをいとわないNGO、教育機関、市民社会グループに開かれています。会員の承認は、現在の会員組織の責任です。"
     text2:      "会員登録をご希望の場合は、下のフォームからご連絡ください。"
   contact_btn:  "メンバーになるために連絡する"
-  madepossible: "MissingMapsは以下の組織の協力を得ています。"
+  madepossible: "Missing Mapsは以下の組織の協力を得ています。"
   founders:     "出資者"
   members:      "メンバー"
   osm_text:     "は、ボランティアによって運営されているマッピングプラットフォームです。これは、上記のすべてのことを可能にします。また、次のNPOが協力しています。"
@@ -233,7 +233,7 @@ host:
 
 checker:
     title: "検証を学ぶ"
-    intro: "検証は、MissingMapsプロセスの重要な部分です。マップされた場所を2回、3回または4回確認することは、OpenStreetMapに追加され、世界中の助けを必要としているコミュニティで使用されているデータの品質を保証するのに大いに役立ちます。検証には、マッピング能力に対する自信と、新しいマッパーを指導し助言する意欲が必要です。MissingMapsプロジェクトは、さまざまなレベルのマッピング経験を持つマッパーのコミュニティであり、すべての人が人道的使用のための高品質データの可用性を向上させるという共通の目標を持っています。"
+    intro: "検証は、Missing Mapsプロセスの重要な部分です。マップされた場所を2回、3回または4回確認することは、OpenStreetMapに追加され、世界中の助けを必要としているコミュニティで使用されているデータの品質を保証するのに大いに役立ちます。検証には、マッピング能力に対する自信と、新しいマッパーを指導し助言する意欲が必要です。Missing Mapsプロジェクトは、さまざまなレベルのマッピング経験を持つマッパーのコミュニティであり、すべての人が人道的使用のための高品質データの可用性を向上させるという共通の目標を持っています。"
     links:
       faq: "FAQS"
       josm: "JOSM VALIDATION"
@@ -242,7 +242,7 @@ checker:
       goal: "検証人"
       step1: "ステップ1"
       step1_subtitle: "あなたが検証する人にふさわしいかどうかを確認します。"
-      step1_text: "検証はすべての人ができるものではありません。検証には我慢強さと細部への注意が必要です。OpenStreetMapおよびHOTプロジェクトでのマッピングの経験は必須ですが、始めるには専門家である必要はありません。MissingMapsやOpenStreetMapのマッピングに慣れていない場合は<a href= \"/learn\">新しいマッパーのための資料 </a>をみて、 <a href= \"/assets/downloads/MissingMaps_validation_faq_en.pdf\"> 検証に関するFAQ </a> を確認して、検証に伴う影響について理解を深めてください。"
+      step1_text: "検証はすべての人ができるものではありません。検証には我慢強さと細部への注意が必要です。OpenStreetMapおよびHOTプロジェクトでのマッピングの経験は必須ですが、始めるには専門家である必要はありません。Missing MapsやOpenStreetMapのマッピングに慣れていない場合は<a href= \"/learn\">新しいマッパーのための資料 </a>をみて、 <a href= \"/assets/downloads/MissingMaps_validation_faq_en.pdf\"> 検証に関するFAQ </a> を確認して、検証に伴う影響について理解を深めてください。"
       step2: "ステップ 2"
       step2_subtitle: "スキルを構築します"
       step2_text: "検証ができるようになるには、より効率的なマッパーになることが不可欠です。<a href=\"https://josm.openstreetmap.de/\">JOSM エディタ</a> は、マッピング及び検証を容易に行うためのツールやプラグインの数とOpenStreetMapのためのカスタマイズ可能なエディタです！この <a href=\"/assets/downloads/MissingMaps_validation_josm_en.pdf\"> JOSMエディターを使った検証方法</a>を見て作業内容を確認してください,  <a href= \"http://learnosm.org/en/josm/\"> LearnOSM </a>からも学ぶことができます"
