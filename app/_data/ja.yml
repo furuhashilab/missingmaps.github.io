@@ -40,7 +40,7 @@ nav:
 
 banner:
   title:          "世界中の災害時要援護者を地図に載せる"
-  subtitle:       "毎年災害により、世界中でおよそ10万人が亡くなり、2億人が影響を受けたり、避難をしています。これらの災害が発生する場所の多くは文字通り「地図」から「欠落」しており、救急隊員は救援活動に関する決定を行うための情報が不足しています。Missing Mapsはオープンで協力的なプロジェクトであり、人道支援組織が行き届いていない地域の地図を作成するのに役立ちます。"
+  subtitle:       "毎年災害により、世界中でおよそ10万人が亡くなり、2億人が影響を受けたり、避難をしたりしています。これらの災害が発生する場所の多くは文字通り「地図」から「欠落」しており、救急隊員は救援活動に関する決定を行うための情報が不足しています。Missing Mapsはオープンで協力的なプロジェクトであり、人道支援組織が行き届いていない地域の地図を作成するのに役立ちます。"
   get_involved:   "GET INVOLVED"
 
 how_we_work:
@@ -101,7 +101,7 @@ discover:
   profile_text: "HOTタスクへの貢献をチェック!"
   profile_btn:  "ユーザーを見つける"
   projects:     "プロジェクト リーダーボード"
-  project_text: "Find out where you stand among contributed hashtags!"
+  project_text: "投稿されたハッシュタグの中でどこに属しているか見つける"
   project_btn:  "リーダーボードを見つける"
 
 contact:
@@ -112,18 +112,18 @@ contact:
 ########################
 contribute:
   title:        "マッピング方法を学ぶ"
-  how_text:     "マッピングに慣れていない場合は、「初心者」向けの欄にあるビデオを見て、実行することをお勧めします。以前にマップした場合は、「今すぐマップ」リンクをたどるか、検証の学習を行ってください。LearnOSMを介して利用可能な追加のチュートリアルもあります。"
+  how_text:     "マッピングに慣れていない場合は、「初級者向け」欄にあるビデオを見て、実行することをお勧めします。以前にマップした場合は、「マッピングを始める」リンクをたどるか、検証の学習を行ってください。LearnOSMを介して利用可能な追加のチュートリアルもあります。"
   map_btn:      "マッピングを始める"
   validate:     "検証"
   learn_osm:    "チュートリアル"
   youtube:      "YOUTUBE"
-  beginners:    "初心者の皆さんへ"
+  beginners:    "初級者向け"
   stepAccount:        "OpenStreetMapアカウントを作成します"
-  stepAccount_text:   "<a href=\"https://www.openstreetmap.org/login\">OpenStreetMap</a> のウェブサイトに行って、アカウントを作ってください。アカウントを画定するために、送られてきたメールに従ってください。"
+  stepAccount_text:   "<a href=\"https://www.openstreetmap.org/login\">OpenStreetMap</a> のウェブサイトに行き、アカウントを作成してください。その後、OpenStreetMapから送信されるメール内のリンクを開きアカウントを確定してください。"
   stepBuildings:        "建物のマッピングを学ぶ"
-  stepBuildings_text:   "建物は、OpenStreetMapに追加できる最も役立つものの1つです（そしてそれらも楽しいです）。iDエディターを使用してOSMに建物を追加および編集する方法を学びます。"
+  stepBuildings_text:   "建物は、OpenStreetMapに追加できる最も役立つものの1つです（そして楽しいです）。iDエディターを使用してOSMに建物を追加および編集する方法を学びます。"
   stepRoads:        "道路のマッピングを学ぶ"
-  stepRoads_text:   "道路もOpenStreetMapに追加できる最も便利なものの1つです。iDエディターを使用してOSMに道路を追加および編集する方法を学びます。"
+  stepRoads_text:   "道路もまたOpenStreetMapに追加できる最も有効なものの1つです。iDエディターを使用してOSMに道路を追加および編集する方法を学びます。"
   stepTM:        "Tasking Managerの使い方を学ぶ"
   stepTM_text:   "<a href=\"http://tasks.hotosm.org/?sort_by=priority&direction=asc&search=missing+maps\">Task Manager</a> （タスクマネージャー）に移動して、興味のあるプロジェクトとタスクを見つけます。編集するタスクをロックし、編集プログラムを選択し、背景設定を変更する方法を学びます。"
 
@@ -131,10 +131,10 @@ contribute:
 ## EVENTS CONTENT ##
 ####################
 events:
-  title:        "Events"
-  sign_up:      "SIGN UP"
+  title:        "イベント"
+  sign_up:      "サインアップ"
   all_btn:      "ALL EVENTS"
-  register_event:     "Register your event"
+  register_event:     "イベントの申し込み"
 
 ###################
 ## ABOUT CONTENT ##
@@ -142,7 +142,7 @@ events:
 about:
   title:        "About"
   objectives:
-    title:      "達成すべき目標"
+    title:      "目的"
     text1:      "発展途上国で最も支援を必要としている場所を地図化し、国際的および地方のNGOと個人が地図とデータを使用して、地域に影響を与える危機により適切に対応できるようにします。"
     text2:      "技術やワークフロー、コミュニティーの開発において、<a href=\"http://openstreetmap.org\">OpenStreetMap</a> ,特に  <a href=\"http://hotosm.org\">Humanitarian OpenStreetMap Team (HOT)</a>をサポートします。"
   ethics:
@@ -171,27 +171,27 @@ helper-map:
   title:        "マッパソンのサポート"
   description:  "Missing Mapsチームは、さまざまな方法であなたをサポートできます。 タスクの選択や質問がある場合は、TwitterまたはFacebookからお問い合わせください。さらに、ボランティアのマッパソンサポーターが世界中にいます！お住まいの地域の人とつながるには、下の地図を使用してください。ドロップダウンを使用して言語でフィルタリングできます。マップをズームすると、地域の人々にリストを絞り込むのに役立ちます。"
   signup-txt:   "下のボタンを使用して地図に連絡先情報を追加して支援してください。データを削除または編集するには、 <a href='mailto:info@hotosm.org'>メール</a>.を送ってください。"
-  signup-btn:   "Sign up"
+  signup-btn:   "サインアップ"
   filter-lang:  "Filter by a language"
   filter-type:  "Filter by type"
-  all:          "All"
-  remote:       "Remote"
-  in-person:    "In Person"
+  all:          "全て"
+  remote:       "リモート"
+  in-person:    "対面"
 
 #####################
 ## HOST A MAPATHON ##
 #####################
 host:
-  title:          "マッパソンを開催"
+  title:          "マッパソンの開催"
   text:           "マッパソンは、ボランティアが途上国で最も支援を必要としている場所をデジタルで接続してマッピングする絶好の機会です。これにより、地元および国際的な非政府組織（NGO）がこれらの地図とデータを使用して、これらの地域に影響を与える危機に対してより適切に対応できるようになります。"
   what_is:        "マッパソンとは？"
   how_host:       "マッパソンを開催するには？"
-  prep_btn:       "PLANNING CHECKLIST"
-  check_btn:      "EVENT DAY CHECKLIST"
-  materials_btn:  "MATERIALS"
-  register_event:   "REGISTER YOUR EVENT"
+  prep_btn:       "企画チェックリスト"
+  check_btn:      "イベント当日チェックリスト"
+  materials_btn:  "資料"
+  register_event:   "イベントの申し込み"
   see_materials:    "Download a complete Step-by-Step Guide to Hosting a Mapathon from "
-  prep_check:     "Planning Checklist"
+  prep_check:     "企画チェックリスト"
   prep_check_list:
     - label: "日にちを選ぶ"
     - label: "協力してくれるボランティアを募集する"
@@ -206,25 +206,25 @@ host:
     - label: "参加者全員分のパソコンを用意する（タブレットは好ましくない）"
     - label: "（できれば）参加者全員にマイクを準備する"
     - label: "自分のイベントにおける技術スタッフやサポートスタッフと連絡が取れる場がある事を確認する"
-    - label: "Extra extension cords"
+    - label: "追加の延長コード"
     - label: "資料の印刷"
     - label: "お菓子の準備"
   event_check:    "イベント当日のチェックリスト"
   event_check_list:
-    - label: "Set up room"
-    - label: "PCとMacの両方でWi-Fiと <a target='_blank' href='http://tasks.hotosm.org/?sort_by=priority&direction=asc&search=missing+maps'>Tasking Manager</a>にアクセスをテストする。　ちなみに、インターネットエクスプローラーはマッピングソフトに適さない。"
-    - label: "Tape extension cords to the floor for safety"
-    - label: "Set up registration table"
-    - label: "Put out printed resources"
-    - label: "Get presentations ready"
-    - label: "Set up snacks"
-    - label: "Have fun mapping!"
-  materials:      "Training and Event Materials"
+    - label: "部屋の用意"
+    - label: "PCとMacの両方でWi-Fiと <a target='_blank' href='http://tasks.hotosm.org/?sort_by=priority&direction=asc&search=missing+maps'>Tasking Manager</a>にアクセスをテストする。　ちなみに、インターネットエクスプローラーはマッピングソフトに適さない"
+    - label: "安全のために延長コードを床にテープで留める"
+    - label: "登録表の用意"
+    - label: "印刷物の用意"
+    - label: "プレゼンテーションの準備"
+    - label: "お菓子の用意"
+    - label: "楽しいマッピングを！"
+  materials:      "トレーニングおよびイベント資料"
   # if you have translated assets, put them in the assets folder and include filename here, if not, feel free to use the english versions as listed
   materials_list:
-    - text:       "Step-by-Step Guide to Hosting a Mapathon"
+    - text:       "マッパソンを企画するためのステップバイステップガイド"
       asset:      "mapathon-materials/english/How_to_Host_a_Mapathon_EN.pdf"
-    - text:       "Everything else you need to run a successful mapathon! &nbsp; <i class='fa fa-file-archive-o' aria-hidden='true'></i> (zip folder)"
+    - text:       "マッパソンを成功させるために必要な他のすべてのこと！  &nbsp; <i class='fa fa-file-archive-o' aria-hidden='true'></i> (zip folder)"
       asset:      "mapathon-materials.zip"
 
 ##############
@@ -233,11 +233,11 @@ host:
 
 checker:
     title: "検証を学ぶ"
-    intro: "検証は、Missing Mapsプロセスの重要な部分です。マップされた場所を2回、3回または4回確認することは、OpenStreetMapに追加され、世界中の助けを必要としているコミュニティで使用されているデータの品質を保証するのに大いに役立ちます。検証には、マッピング能力に対する自信と、新しいマッパーを指導し助言する意欲が必要です。Missing Mapsプロジェクトは、さまざまなレベルのマッピング経験を持つマッパーのコミュニティであり、すべての人が人道的使用のための高品質データの可用性を向上させるという共通の目標を持っています。"
+    intro: "検証は、Missing Mapsプロセスの重要な部分です。マップされた場所を2回、3回または4回確認することは、OpenStreetMapに追加され、世界中の助けを必要としているコミュニティで使用されているデータの品質を保証するのに大いに役立ちます。検証には、マッピング能力に対する自信と、新しいマッパーを指導し助言する意欲が必要です。ミッシングマッププロジェクトは、さまざまなレベルのマッピング経験を持つマッパーのコミュニティであり、すべての人が人道的使用のための高品質データの可用性を向上させるという共通の目標を持っています。"
     links:
-      faq: "FAQS"
-      josm: "JOSM VALIDATION"
-      wiki: "WIKI"
+      faq: "よくある質問"
+      josm: "JOSM 検証"
+      wiki: "ウィキ"
     steps:
       goal: "検証人"
       step1: "ステップ1"
@@ -249,7 +249,7 @@ checker:
       step2_video: "JOSMでの検証が推奨されますが、iDエディターを使用してマップの改善を開始することもできます。このビデオをチェックして、探すべきことをいくつか学んでください。"
       step3: "ステップ 3"
       step3_subtitle: "幅広いコミュニティの一部として協力する。"
-      step3_text: "検証する人によって、検証方法が異なります。 <a href=\"http://slack.hotosm.org\">HOTOSM Slack</a>検証チャンネル に参加するか、 <a href=\"https://lists.openstreetmap.org/listinfo/hot\"> HOTメーリングリスト </a>に連絡してください。役立つと思われるリソースを提供し、コミュニティに還元してください！MissingMapsコミュニティに参加するということは、前向きで包括的な環境で協力することを意味します。マッパーにフィードバックを与えるときは、ポジティブな口調を保ち、彼らの貢献と支援したいという想いを尊重するよう心がけてください。-それがOSMを成長させ続けるものです！"
+      step3_text: "検証する人によって、検証方法が異なります。 <a href=\"http://slack.hotosm.org\">HOTOSM Slack</a>検証チャンネル に参加するか、 <a href=\"https://lists.openstreetmap.org/listinfo/hot\"> HOTメーリングリスト </a>に連絡してください。役立つと思われるリソースを提供し、コミュニティに還元してください！ミッシングマップコミュニティに参加するということは、前向きで包括的な環境で協力することを意味します。マッパーにフィードバックを与えるときは、ポジティブな口調を保ち、彼らの貢献と支援したいという想いを尊重するよう心がけてください。-それがOSMを成長させ続けるものです！"
       step4: "ステップ 4"
       step4_subtitle: "検証に関する FAQ"
       faq:
